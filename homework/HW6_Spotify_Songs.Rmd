@@ -16,7 +16,7 @@ In this assignment, you will be working with a dataset of songs played on Spotif
 
 ### Task 3: Calculate the mean and standard deviation of the danceability scores
 
-Write code to calculate the mean standard deviation of the danceability scores in the Spotify dataset. Display those.
+Write code to calculate the mean and standard deviation of the danceability scores in the Spotify dataset. Display those.
 
 ```{r}
 ```
@@ -30,16 +30,25 @@ Write code to create a histogram of the danceability scores in the Spotify datas
 
 ### Task 5: Add a line to the histogram for the mean danceability score
 
-Write code to add a vertical line to the histogram for the mean danceability score, based on the example in class.
+Take the same code and add a vertical line to the histogram for the mean danceability score, based on the example in class.
 
 ```{r}
 ```
 
-### Task 6: Describe our results
 
-Write a few sentences about the distribution of danceability scores in the Spotify dataset. Is it a normal distribution, or is it skewed in one direction? What does the mean and distribution tell us about the songs in the dataset?
+### Task 6: Add two lines to the histogram to show one standard deviation
 
-### Task 7: Save Your Work and Put it on GitHub
+Take the previous code and add two lines to the histogram for the 1st standard deviation below and above the mean score.
+
+```{r}
+```
+
+### Task 7: Describe our results and pitch a story
+
+Write a few sentences about the distribution of danceability scores in the Spotify dataset. Is it a normal distribution, or is it skewed in one direction? What does the mean and one standard distribution tell us about the songs in the dataset? Draft a short story pitch from this data.
+
+
+
+### Task 8: Save Your Work and Put it on GitHub
 
 Save this notebook, then commit it to your local repository. Push the changes to your GitHub repository and submit the URL for this file in ELMS.
-
