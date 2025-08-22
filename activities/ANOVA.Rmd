@@ -1,5 +1,6 @@
 ---
 title: "ANOVA for Journalists: Analyzing College Admissions Test Scores"
+date: 8-22-2025
 ---
 
 ```{r setup, include=FALSE}
@@ -24,6 +25,7 @@ set.seed(123)
 
 # Create simulated SAT scores for admitted students across three college types
 # Scale is 400-1600 for total SAT
+# rnorm generates random numbers, in this case, 100 numbers
 public_college <- rnorm(100, mean = 1350, sd = 120)
 private_college <- rnorm(100, mean = 1450, sd = 100)
 community_college <- rnorm(100, mean = 1050, sd = 150)
@@ -131,5 +133,4 @@ Based on our analysis, we can now answer:
 3. How large are these differences?
 
 Answer those questions, providing evidence for your answers, and then write a headline and a lead paragraph reporting these findings using active voice and focusing on the differences across types.
-
 
