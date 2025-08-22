@@ -1,5 +1,6 @@
 ---
 title: "Chi-Square Test for College Letter Grades"
+date: 8-22-2025
 ---
 
 In this analysis, we will perform a chi-square test to determine if the observed frequencies of college letter grades are significantly different from the expected frequencies. We will use a hypothetical dataset of 400 students and their corresponding letter grades (A, B, C, D, and F). Your new friend REPLACE_ME is back again; replace those with the appropriate values.
