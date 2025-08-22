@@ -1,5 +1,6 @@
 ---
 title: "Chi-Square Test for Movie Ratings"
+date: 8-22-2025
 ---
 
 In this analysis, we will perform a chi-square test to determine if the observed movie rating frequencies are significantly different from the expected frequencies. We will use a hypothetical dataset of 400 movies and their corresponding ratings (1 star, 2 stars, 3 stars, 4 stars, and 5 stars).
@@ -11,6 +12,7 @@ First, we need to load the necessary package for performing the chi-square test:
 ```{r}
 install.packages("vcd")
 library(vcd)
+library(tidyverse)
 ```
 
 ### Expected Frequencies vs. Observed Frequencies
