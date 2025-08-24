@@ -1,6 +1,7 @@
 
 ---
 title: "Multiple Regression Analysis in R"
+date: 8-24-2025
 ---
 
 # Introduction

@@ -1,3 +1,9 @@
+
+---
+title: "Activity: Linear Regression "
+date: 8-24-2025
+---
+
 ```{r}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
